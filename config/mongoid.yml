@@ -1,0 +1,11 @@
+production:
+  clients:
+    default:
+      database: products
+      hosts: ["<%= ENV['MONGODB_ADDRESS'] || 'mongodb'%>:27017"]
+development:
+  clients:
+    default:
+      database: products
+      hosts: ["<%= ENV['MONGODB_ADDRESS'] || 'mongodb'%>:27017"]
+      
