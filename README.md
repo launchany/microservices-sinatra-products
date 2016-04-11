@@ -26,11 +26,11 @@ Then start the the containers:
 
 > docker-compose up
 
-# Deploying to Cloud66
+# Deploying to Cloud 66
 
-Cloud66 is a Manager Containers as a Service that supports deploying Docker containers onto one or more servers using a bring-your-own-cloud approach.
+Cloud 66 is a Manager Containers as a Service that supports deploying Docker containers onto one or more servers using a bring-your-own-cloud approach.
 
-TODO 
+Read the [Cloud 66 blog post](blog.cloud66.com/deploying-rest-apis-to-docker-using-ruby-and-sinatra/) for details on deploying this project to your preferred cloud provider. 
 
 # Interacting with the Products Service
 
