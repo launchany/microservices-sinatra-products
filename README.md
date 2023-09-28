@@ -30,7 +30,7 @@ Then start the the containers:
 
 Cloud 66 is a Manager Containers as a Service that supports deploying Docker containers onto one or more servers using a bring-your-own-cloud approach.
 
-Read the [Cloud 66 blog post](blog.cloud66.com/deploying-rest-apis-to-docker-using-ruby-and-sinatra/) for details on deploying this project to your preferred cloud provider. 
+Read the [Cloud 66 blog post](https://blog.cloud66.com/deploying-rest-apis-to-docker-using-ruby-and-sinatra) for details on deploying this project to your preferred cloud provider. 
 
 # Interacting with the Products Service
 
